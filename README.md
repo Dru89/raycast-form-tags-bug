@@ -2,7 +2,7 @@
 
 Simple example for showing a bug in Form.TagPicker
 
-![Form Empty State](./screenshots/empty-state.png)
+![Form Empty State](./screenshots/empty-state-spell-fix.png)
 
 ## Bug Description
 
