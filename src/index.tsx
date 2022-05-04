@@ -42,7 +42,7 @@ export default function Command() {
 
         Expected: No changes should be received yet.
 
-        Action: \`tags\` changed (from \`[]\` to \`[]\`)
+        Actual: \`tags\` changed (from \`[]\` to \`[]\`)
       `}
       />
       <Form.TextField
